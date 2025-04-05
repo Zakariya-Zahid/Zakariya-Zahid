@@ -65,13 +65,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 55.7 kB Used in GitHub's Storage 
  > 
-> 🏆 27 Contributions in the Year 2025
+> 🏆 28 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -79,42 +77,23 @@
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                28 commits          ████████████░░░░░░░░░░░░░   48.28 % 
-🌆 Daytime                4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-🌃 Evening                11 commits          █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-🌙 Night                  15 commits          ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
-```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   15 commits          ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+Monday                   15 commits          ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
 Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Thursday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-Friday                   26 commits          ███████████░░░░░░░░░░░░░░   44.83 % 
-Saturday                 10 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Sunday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Wednesday                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Thursday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Friday                   26 commits          ███████████░░░░░░░░░░░░░░   44.07 % 
+Saturday                 11 commits          █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+Sunday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: America/Los_Angeles
-
 💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 ```
 
@@ -134,5 +113,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Zakariya-Zahid/Zakariya-Zahid/main/assets/bar_graph.png)
 
 
- Last Updated on 05/04/2025 09:06:01 UTC
+ Last Updated on 05/04/2025 09:10:52 UTC
 <!--END_SECTION:waka-->
