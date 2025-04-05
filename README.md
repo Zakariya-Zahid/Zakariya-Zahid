@@ -40,7 +40,7 @@
 ---
 
 ### 🔗 Social Handles
-- [LinkedIn](https://www.linkedin.com/in/zakariya-bukhari-a8481a31a/))
+- [LinkedIn](https://www.linkedin.com/in/zakariya-bukhari-a8481a31a/)
 - [Instagram](https://www.instagram.com/zakariya_bukhari/)
 - [Portfolio Website](https://zakfolio-dev.vercel.app)
 ---
