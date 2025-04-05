@@ -1,7 +1,6 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Twitter Clone
 - 🌱 I’m currently learning Machine Learning
-- Check out my Portfolio[https://zakvolio.netlify.app]
+- Check out my Portfolio https://zakfolio-dev.vercel.app/
 <!--
 **Zakariya-Zahid/Zakariya-Zahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
