@@ -64,11 +64,13 @@
 ### 🕒 Coding Activity (Last 7 Days)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2058%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 55.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 31 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -93,11 +95,11 @@ Sunday                   2 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               6 hrs 14 mins       ██████████████░░░░░░░░░░░   56.34 % 
-Markdown                 1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-Python                   1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-HTML                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+JavaScript               6 hrs 8 mins        ███████████████░░░░░░░░░░   58.17 % 
+Markdown                 1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Bash                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+HTML                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Python                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -116,5 +118,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Zakariya-Zahid/Zakariya-Zahid/main/assets/bar_graph.png)
 
 
- Last Updated on 14/04/2025 07:16:07 UTC
+ Last Updated on 14/04/2025 08:21:30 UTC
 <!--END_SECTION:waka-->
