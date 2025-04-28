@@ -64,7 +64,7 @@
 ### 🕒 Coding Activity (Last 7 Days)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2052%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -118,5 +118,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Zakariya-Zahid/Zakariya-Zahid/main/assets/bar_graph.png)
 
 
- Last Updated on 28/04/2025 11:33:51 UTC
+ Last Updated on 28/04/2025 12:32:47 UTC
 <!--END_SECTION:waka-->
