@@ -95,10 +95,7 @@ Sunday                   3 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               35 mins             █████████████████████████   99.27 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -117,5 +114,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Zakariya-Zahid/Zakariya-Zahid/main/assets/bar_graph.png)
 
 
- Last Updated on 09/05/2025 07:15:35 UTC
+ Last Updated on 09/05/2025 08:21:09 UTC
 <!--END_SECTION:waka-->
