@@ -70,6 +70,8 @@
 
 > 📦 60.7 kB Used in GitHub's Storage 
  > 
+> 🏆 31 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 6 Public Repositories 
@@ -112,5 +114,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Zakariya-Zahid/Zakariya-Zahid/main/assets/bar_graph.png)
 
 
- Last Updated on 11/05/2025 05:15:17 UTC
+ Last Updated on 11/05/2025 06:21:04 UTC
 <!--END_SECTION:waka-->
