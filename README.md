@@ -64,6 +64,8 @@
 ### 🕒 Coding Activity (Last 7 Days)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2018%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 61.2 kB Used in GitHub's Storage 
@@ -112,5 +114,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Zakariya-Zahid/Zakariya-Zahid/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2025 07:21:10 UTC
+ Last Updated on 31/07/2025 08:24:40 UTC
 <!--END_SECTION:waka-->
