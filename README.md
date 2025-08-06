@@ -57,33 +57,5 @@
 ### 🕒 Coding Activity (Last 7 Days)
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
 
-> 📦 61.3 kB Used in GitHub's Storage 
- > 
-> 🏆 31 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 6 Public Repositories 
- > 
-> 🔑 10 Private Repositories 
- > 
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               10 repos            █████████████████░░░░░░░░   66.67 % 
-Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Zakariya-Zahid/Zakariya-Zahid/main/assets/bar_graph.png)
-
-
- Last Updated on 06/08/2025 16:22:52 UTC
 <!--END_SECTION:waka-->
