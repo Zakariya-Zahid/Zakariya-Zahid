@@ -52,14 +52,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zakariya-Zahid&show_icons=true&theme=radical" alt="Zakariya's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakariya-Zahid&layout=compact&theme=radical" alt="Top languages" />
-</p>
-
----
 
 ### 🕒 Coding Activity (Last 7 Days)
 
