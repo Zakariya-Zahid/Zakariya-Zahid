@@ -64,8 +64,6 @@
 ### 🕒 Coding Activity (Last 7 Days)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2018%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 61.3 kB Used in GitHub's Storage 
@@ -78,26 +76,6 @@
  > 
 > 🔑 10 Private Repositories 
  > 
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   15 commits          █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-Tuesday                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-Wednesday                6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-Thursday                 11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Friday                   26 commits          ████████░░░░░░░░░░░░░░░░░   31.33 % 
-Saturday                 21 commits          ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
-Sunday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -114,5 +92,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Zakariya-Zahid/Zakariya-Zahid/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2025 15:20:13 UTC
+ Last Updated on 06/08/2025 16:22:52 UTC
 <!--END_SECTION:waka-->
