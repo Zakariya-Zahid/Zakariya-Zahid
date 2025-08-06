@@ -52,10 +52,6 @@
 
 ---
 
-
-
-### 🕒 Coding Activity (Last 7 Days)
-
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
